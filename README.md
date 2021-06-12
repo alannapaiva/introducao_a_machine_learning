@@ -1,1 +1,1 @@
-# introducao_a_machine_learning
+# Códigos desenvolvidos durante o curso de Machine Learning da Alura 
