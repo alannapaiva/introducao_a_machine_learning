@@ -1,1 +1,1 @@
-# Códigos desenvolvidos durante o curso de Machine Learning da Alura 
+# Códigos em Python desenvolvidos durante o curso de Machine Learning da Alura 
